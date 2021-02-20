@@ -1606,7 +1606,7 @@ section {
   text-transform: uppercase;
   border-radius: 25px;
   min-width: 148px;
-  border: 2px solid #fd2d55;
+  border: 2px solid #1dbf73;
   background-color: transparent;
   color: #fff;
   position: relative;
@@ -1620,7 +1620,7 @@ section {
 }
 .btn:focus,
 .btn:hover {
-  background-color: #fd2d55;
+  background-color: #1dbf73;
   color: #fff;
 }
 .entry-content .wp-smiley,
